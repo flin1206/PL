@@ -7,6 +7,6 @@
 ## 課程筆記區
 ## 作業連結區
 [HW1](https://github.com/flin1206/PL/blob/main/HW1/Untitled.ipynb)  
-[HW2](https://github.com/flin1206/PL/blob/main/HW2/HW2.ipynb)
+[HW2](https://github.com/flin1206/PL/blob/main/HW2/HW2.ipynb)  
 [HW3](https://github.com/flin1206/PL/blob/main/HW3/a.ipynb)
 ## 專題連結區
