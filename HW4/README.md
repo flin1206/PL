@@ -90,6 +90,6 @@ text = ' '.join(nltk.word_tokenize(text))
 cloud = WordCloud().generate(text)
 cloud.to_file('output02.png')
 ```
-成品如下:
-![](https://hackmd.io/_uploads/Hy41wCY4h.png)
-![](https://hackmd.io/_uploads/SJNyvCK4h.png)
+成品如下:  
+![image](https://github.com/flin1206/PL/blob/main/HW4/output01.png)  
+![image](https://github.com/flin1206/PL/blob/main/HW4/output02.png)
